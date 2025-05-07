@@ -98,3 +98,8 @@ Like so:
     <input type="submit">
 </form>
 ```
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tethik/flask-session-captcha&type=Date)](https://www.star-history.com/#Tethik/flask-session-captcha&Date)
